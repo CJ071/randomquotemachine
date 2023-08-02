@@ -15,20 +15,20 @@ body {
   border: 1px solid #ccc;
   border-radius: 5px;
   text-align: center;
-  background-color: #f8f8f8; /* Slightly lighter background color for the quote box */
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+  background-color: #f8f8f8; 
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
 }
 
 q {
-  font-size: 28px; /* Increased the font size for the quote */
-  margin: 0 0 20px; /* Increased the margin at the bottom for better spacing */
-  color: #444; /* Darker color for the quote text */
+  font-size: 28px; 
+  margin: 0 0 20px; 
+  color: #444; 
 }
 
 p {
   font-size: 20px;
   margin: 0;
-  color: #666; /* Slightly darker color for the author text */
+  color: #666; 
 }
 
 button {
@@ -52,7 +52,7 @@ button {
 }
 
 button:hover {
-  background-color: #5f5f5f; /* Darker color on hover for the button */
+  background-color: #5f5f5f; 
 }
 
 
