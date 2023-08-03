@@ -6,6 +6,8 @@ body {
   height: 100vh;
   margin: 0;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: url('./pxfuel.jpg') center center no-repeat;
+  background-size: cover;
   background-color:cadetblue;
 }
 
@@ -33,7 +35,7 @@ p {
 
 button {
   font-size: 18px;
-  background-color: brown;
+  background-color:#666;
   border: none;
   border-radius: 5px;
   color: white;
@@ -52,7 +54,7 @@ button {
 }
 
 button:hover {
-  background-color: #5f5f5f; 
+  background-color:cadetblue; 
 }
 
 
